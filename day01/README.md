@@ -41,9 +41,14 @@ CSV https://data.nantesmetropole.fr/explore/dataset/244400404_comptages-velo-nan
 
 Then, we've made some change in a QGIS project named `stations-velo.qgz`
 
+![](stations-velo-screenshot-project.png)
 
+and exported images using Temporal Controller Panel export function
 
+## Post-processing to videos
 
 Convert resulting images from Temporal Controller Panel
 
     ffmpeg -framerate 10 -pattern_type glob -i '*.png' -vf "pad=ceil(iw/2)*2:ceil(ih/2)*2" -c:v libx264 -pix_fmt yuv420p out.mp4
+
+![](stations-velo-screenshot-project.png)
