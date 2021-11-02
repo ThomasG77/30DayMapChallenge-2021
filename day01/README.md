@@ -51,4 +51,8 @@ Convert resulting images from Temporal Controller Panel
 
     ffmpeg -framerate 10 -pattern_type glob -i '*.png' -vf "pad=ceil(iw/2)*2:ceil(ih/2)*2" -c:v libx264 -pix_fmt yuv420p out.mp4
 
-![](stations-velo-screenshot-project.png)
+<video controls>
+  <source src="out.mp4" type="video/mp4">
+  <p>Votre navigateur ne prend pas en charge les vidéos HTML5.
+     Voici <a href="out.mp4">un lien pour télécharger la vidéo</a>.</p>
+</video>
