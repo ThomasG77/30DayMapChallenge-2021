@@ -1,0 +1,13 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="comptages">
+        <SrcDataSource relativeToVRT="1">comptages-velo-nantes-metropole.csv</SrcDataSource>
+        <OpenOptions>
+        <OOI key="HEADERS">YES</OOI>
+        </OpenOptions>
+        <SrcSQL dialect="SQlite">SELECT * FROM "comptages-velo-nantes-metropole"</SrcSQL>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="points">
+        <SrcDataSource relativeToVRT="1">points-comptages-velo-nantes-metropole.geojson</SrcDataSource>
+        <SrcSQL dialect="SQlite">SELECT * FROM "points-comptages-velo-nantes-metropole"</SrcSQL>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
