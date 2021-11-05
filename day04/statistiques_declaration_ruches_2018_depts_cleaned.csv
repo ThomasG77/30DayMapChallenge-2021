@@ -1,0 +1,919 @@
+region;departement;tranche;nb_decl_w_siret;nb_decl_wo_siret;nb_colonies
+Auvergne-Rhône-Alpes;01;0 à 9;113;497;2735
+Auvergne-Rhône-Alpes;01;10 à 49;147;113;4684
+Auvergne-Rhône-Alpes;01;50 à 99;13;1;969
+Auvergne-Rhône-Alpes;01;100 à 149;5;0;593
+Auvergne-Rhône-Alpes;01;150 à 199;10;0;1670
+Auvergne-Rhône-Alpes;01;200 à 399;7;0;1765
+Auvergne-Rhône-Alpes;01;400 à 699;12;0;5510
+Auvergne-Rhône-Alpes;01;700 à 999;2;0;1719
+Auvergne-Rhône-Alpes;01;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;03;0 à 9;55;293;1435
+Auvergne-Rhône-Alpes;03;10 à 49;65;38;2018
+Auvergne-Rhône-Alpes;03;50 à 99;4;1;349
+Auvergne-Rhône-Alpes;03;100 à 149;2;0;222
+Auvergne-Rhône-Alpes;03;150 à 199;2;0;305
+Auvergne-Rhône-Alpes;03;200 à 399;3;0;836
+Auvergne-Rhône-Alpes;03;400 à 699;1;0;589
+Auvergne-Rhône-Alpes;03;700 à 999;1;0;835
+Auvergne-Rhône-Alpes;03;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;07;0 à 9;49;395;1874
+Auvergne-Rhône-Alpes;07;10 à 49;107;91;3978
+Auvergne-Rhône-Alpes;07;50 à 99;33;6;2753
+Auvergne-Rhône-Alpes;07;100 à 149;23;0;2733
+Auvergne-Rhône-Alpes;07;150 à 199;14;0;2333
+Auvergne-Rhône-Alpes;07;200 à 399;27;0;7119
+Auvergne-Rhône-Alpes;07;400 à 699;10;0;4631
+Auvergne-Rhône-Alpes;07;700 à 999;2;0;1573
+Auvergne-Rhône-Alpes;07;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;15;0 à 9;43;140;850
+Auvergne-Rhône-Alpes;15;10 à 49;82;52;2754
+Auvergne-Rhône-Alpes;15;50 à 99;9;1;654
+Auvergne-Rhône-Alpes;15;100 à 149;6;0;699
+Auvergne-Rhône-Alpes;15;150 à 199;4;1;875
+Auvergne-Rhône-Alpes;15;200 à 399;6;1;1815
+Auvergne-Rhône-Alpes;15;400 à 699;1;0;480
+Auvergne-Rhône-Alpes;15;700 à 999;0;0;0
+Auvergne-Rhône-Alpes;15;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;26;0 à 9;65;576;2874
+Auvergne-Rhône-Alpes;26;10 à 49;112;117;4466
+Auvergne-Rhône-Alpes;26;50 à 99;33;1;2358
+Auvergne-Rhône-Alpes;26;100 à 149;21;2;2693
+Auvergne-Rhône-Alpes;26;150 à 199;14;2;2830
+Auvergne-Rhône-Alpes;26;200 à 399;29;1;8276
+Auvergne-Rhône-Alpes;26;400 à 699;9;0;3930
+Auvergne-Rhône-Alpes;26;700 à 999;0;0;0
+Auvergne-Rhône-Alpes;26;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;38;0 à 9;312;1584;7441
+Auvergne-Rhône-Alpes;38;10 à 49;247;189;7622
+Auvergne-Rhône-Alpes;38;50 à 99;31;2;2167
+Auvergne-Rhône-Alpes;38;100 à 149;15;0;1782
+Auvergne-Rhône-Alpes;38;150 à 199;11;0;1915
+Auvergne-Rhône-Alpes;38;200 à 399;28;0;7509
+Auvergne-Rhône-Alpes;38;400 à 699;11;0;5038
+Auvergne-Rhône-Alpes;38;700 à 999;2;0;1455
+Auvergne-Rhône-Alpes;38;⩾ 1000;1;0;1250
+Auvergne-Rhône-Alpes;42;0 à 9;70;611;2832
+Auvergne-Rhône-Alpes;42;10 à 49;113;119;4144
+Auvergne-Rhône-Alpes;42;50 à 99;16;2;1295
+Auvergne-Rhône-Alpes;42;100 à 149;6;1;815
+Auvergne-Rhône-Alpes;42;150 à 199;10;0;1726
+Auvergne-Rhône-Alpes;42;200 à 399;17;2;4916
+Auvergne-Rhône-Alpes;42;400 à 699;4;0;1802
+Auvergne-Rhône-Alpes;42;700 à 999;2;0;1716
+Auvergne-Rhône-Alpes;42;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;43;0 à 9;26;236;1144
+Auvergne-Rhône-Alpes;43;10 à 49;47;65;2287
+Auvergne-Rhône-Alpes;43;50 à 99;8;2;671
+Auvergne-Rhône-Alpes;43;100 à 149;3;0;359
+Auvergne-Rhône-Alpes;43;150 à 199;8;0;1373
+Auvergne-Rhône-Alpes;43;200 à 399;17;0;4966
+Auvergne-Rhône-Alpes;43;400 à 699;3;0;1580
+Auvergne-Rhône-Alpes;43;700 à 999;3;0;2475
+Auvergne-Rhône-Alpes;43;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;63;0 à 9;44;592;3020
+Auvergne-Rhône-Alpes;63;10 à 49;132;169;5411
+Auvergne-Rhône-Alpes;63;50 à 99;19;1;1480
+Auvergne-Rhône-Alpes;63;100 à 149;11;0;1323
+Auvergne-Rhône-Alpes;63;150 à 199;2;0;351
+Auvergne-Rhône-Alpes;63;200 à 399;17;0;4558
+Auvergne-Rhône-Alpes;63;400 à 699;5;0;2330
+Auvergne-Rhône-Alpes;63;700 à 999;1;0;709
+Auvergne-Rhône-Alpes;63;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;69;0 à 9;97;625;2846
+Auvergne-Rhône-Alpes;69;10 à 49;92;78;3086
+Auvergne-Rhône-Alpes;69;50 à 99;10;1;841
+Auvergne-Rhône-Alpes;69;100 à 149;4;2;709
+Auvergne-Rhône-Alpes;69;150 à 199;6;0;1008
+Auvergne-Rhône-Alpes;69;200 à 399;7;1;1780
+Auvergne-Rhône-Alpes;69;400 à 699;2;0;1100
+Auvergne-Rhône-Alpes;69;700 à 999;2;0;1600
+Auvergne-Rhône-Alpes;69;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;73;0 à 9;158;1342;6899
+Auvergne-Rhône-Alpes;73;10 à 49;191;278;7614
+Auvergne-Rhône-Alpes;73;50 à 99;19;2;1394
+Auvergne-Rhône-Alpes;73;100 à 149;10;0;1240
+Auvergne-Rhône-Alpes;73;150 à 199;13;1;2288
+Auvergne-Rhône-Alpes;73;200 à 399;17;0;4513
+Auvergne-Rhône-Alpes;73;400 à 699;13;0;6270
+Auvergne-Rhône-Alpes;73;700 à 999;1;0;785
+Auvergne-Rhône-Alpes;73;⩾ 1000;0;0;0
+Auvergne-Rhône-Alpes;74;0 à 9;176;962;4992
+Auvergne-Rhône-Alpes;74;10 à 49;179;201;6475
+Auvergne-Rhône-Alpes;74;50 à 99;13;2;1061
+Auvergne-Rhône-Alpes;74;100 à 149;4;0;490
+Auvergne-Rhône-Alpes;74;150 à 199;6;0;1014
+Auvergne-Rhône-Alpes;74;200 à 399;11;0;3066
+Auvergne-Rhône-Alpes;74;400 à 699;7;0;3201
+Auvergne-Rhône-Alpes;74;700 à 999;0;0;0
+Auvergne-Rhône-Alpes;74;⩾ 1000;0;0;0
+Bourgogne-Franche-Comté;21;0 à 9;63;361;1830
+Bourgogne-Franche-Comté;21;10 à 49;90;82;3479
+Bourgogne-Franche-Comté;21;50 à 99;15;2;1145
+Bourgogne-Franche-Comté;21;100 à 149;4;1;580
+Bourgogne-Franche-Comté;21;150 à 199;4;0;673
+Bourgogne-Franche-Comté;21;200 à 399;15;0;4325
+Bourgogne-Franche-Comté;21;400 à 699;1;0;400
+Bourgogne-Franche-Comté;21;700 à 999;1;0;923
+Bourgogne-Franche-Comté;21;⩾ 1000;1;0;3025
+Bourgogne-Franche-Comté;25;0 à 9;103;459;2582
+Bourgogne-Franche-Comté;25;10 à 49;147;74;3991
+Bourgogne-Franche-Comté;25;50 à 99;12;0;808
+Bourgogne-Franche-Comté;25;100 à 149;4;0;445
+Bourgogne-Franche-Comté;25;150 à 199;5;1;1088
+Bourgogne-Franche-Comté;25;200 à 399;11;0;3076
+Bourgogne-Franche-Comté;25;400 à 699;5;0;2370
+Bourgogne-Franche-Comté;25;700 à 999;2;0;1420
+Bourgogne-Franche-Comté;25;⩾ 1000;0;0;0
+Bourgogne-Franche-Comté;39;0 à 9;31;267;1364
+Bourgogne-Franche-Comté;39;10 à 49;51;40;1899
+Bourgogne-Franche-Comté;39;50 à 99;10;1;762
+Bourgogne-Franche-Comté;39;100 à 149;12;0;1504
+Bourgogne-Franche-Comté;39;150 à 199;5;0;829
+Bourgogne-Franche-Comté;39;200 à 399;16;0;4447
+Bourgogne-Franche-Comté;39;400 à 699;9;0;4793
+Bourgogne-Franche-Comté;39;700 à 999;0;0;0
+Bourgogne-Franche-Comté;39;⩾ 1000;2;0;4129
+Bourgogne-Franche-Comté;58;0 à 9;28;183;859
+Bourgogne-Franche-Comté;58;10 à 49;30;22;928
+Bourgogne-Franche-Comté;58;50 à 99;6;1;475
+Bourgogne-Franche-Comté;58;100 à 149;4;0;487
+Bourgogne-Franche-Comté;58;150 à 199;1;0;175
+Bourgogne-Franche-Comté;58;200 à 399;2;0;690
+Bourgogne-Franche-Comté;58;400 à 699;2;0;1000
+Bourgogne-Franche-Comté;58;700 à 999;0;0;0
+Bourgogne-Franche-Comté;58;⩾ 1000;1;0;1400
+Bourgogne-Franche-Comté;70;0 à 9;54;277;1570
+Bourgogne-Franche-Comté;70;10 à 49;71;35;2116
+Bourgogne-Franche-Comté;70;50 à 99;14;0;952
+Bourgogne-Franche-Comté;70;100 à 149;7;0;781
+Bourgogne-Franche-Comté;70;150 à 199;6;0;1042
+Bourgogne-Franche-Comté;70;200 à 399;5;1;1533
+Bourgogne-Franche-Comté;70;400 à 699;5;0;2343
+Bourgogne-Franche-Comté;70;700 à 999;0;0;0
+Bourgogne-Franche-Comté;70;⩾ 1000;0;0;0
+Bourgogne-Franche-Comté;71;0 à 9;88;452;2295
+Bourgogne-Franche-Comté;71;10 à 49;100;78;3448
+Bourgogne-Franche-Comté;71;50 à 99;8;0;541
+Bourgogne-Franche-Comté;71;100 à 149;5;1;700
+Bourgogne-Franche-Comté;71;150 à 199;3;1;675
+Bourgogne-Franche-Comté;71;200 à 399;10;0;2966
+Bourgogne-Franche-Comté;71;400 à 699;3;0;1448
+Bourgogne-Franche-Comté;71;700 à 999;0;0;0
+Bourgogne-Franche-Comté;71;⩾ 1000;1;0;1200
+Bourgogne-Franche-Comté;89;0 à 9;47;237;1267
+Bourgogne-Franche-Comté;89;10 à 49;61;63;2312
+Bourgogne-Franche-Comté;89;50 à 99;8;0;501
+Bourgogne-Franche-Comté;89;100 à 149;7;0;828
+Bourgogne-Franche-Comté;89;150 à 199;4;0;724
+Bourgogne-Franche-Comté;89;200 à 399;7;0;1550
+Bourgogne-Franche-Comté;89;400 à 699;5;0;2381
+Bourgogne-Franche-Comté;89;700 à 999;0;0;0
+Bourgogne-Franche-Comté;89;⩾ 1000;2;1;32650
+Bourgogne-Franche-Comté;90;0 à 9;29;105;557
+Bourgogne-Franche-Comté;90;10 à 49;21;10;577
+Bourgogne-Franche-Comté;90;50 à 99;1;0;95
+Bourgogne-Franche-Comté;90;100 à 149;1;0;122
+Bourgogne-Franche-Comté;90;150 à 199;0;0;0
+Bourgogne-Franche-Comté;90;200 à 399;0;0;0
+Bourgogne-Franche-Comté;90;400 à 699;0;0;0
+Bourgogne-Franche-Comté;90;700 à 999;0;0;0
+Bourgogne-Franche-Comté;90;⩾ 1000;0;0;0
+Bretagne;22;0 à 9;53;569;2556
+Bretagne;22;10 à 49;84;102;3320
+Bretagne;22;50 à 99;11;2;909
+Bretagne;22;100 à 149;14;0;1662
+Bretagne;22;150 à 199;4;0;671
+Bretagne;22;200 à 399;5;1;1702
+Bretagne;22;400 à 699;2;0;851
+Bretagne;22;700 à 999;0;0;0
+Bretagne;22;⩾ 1000;0;0;0
+Bretagne;29;0 à 9;106;785;3499
+Bretagne;29;10 à 49;169;182;6746
+Bretagne;29;50 à 99;19;3;1439
+Bretagne;29;100 à 149;7;0;808
+Bretagne;29;150 à 199;3;1;645
+Bretagne;29;200 à 399;11;0;3050
+Bretagne;29;400 à 699;5;0;2482
+Bretagne;29;700 à 999;2;0;1583
+Bretagne;29;⩾ 1000;0;0;0
+Bretagne;35;0 à 9;79;541;2380
+Bretagne;35;10 à 49;68;72;2592
+Bretagne;35;50 à 99;14;3;1244
+Bretagne;35;100 à 149;3;3;670
+Bretagne;35;150 à 199;3;0;473
+Bretagne;35;200 à 399;5;0;1425
+Bretagne;35;400 à 699;3;0;1324
+Bretagne;35;700 à 999;3;0;2818
+Bretagne;35;⩾ 1000;0;0;0
+Bretagne;56;0 à 9;56;594;2624
+Bretagne;56;10 à 49;81;101;3392
+Bretagne;56;50 à 99;13;2;1106
+Bretagne;56;100 à 149;7;0;825
+Bretagne;56;150 à 199;6;0;974
+Bretagne;56;200 à 399;4;0;1103
+Bretagne;56;400 à 699;2;0;965
+Bretagne;56;700 à 999;2;0;1584
+Bretagne;56;⩾ 1000;2;0;2448
+Centre-Val de Loire;18;0 à 9;43;186;956
+Centre-Val de Loire;18;10 à 49;44;19;1370
+Centre-Val de Loire;18;50 à 99;10;0;749
+Centre-Val de Loire;18;100 à 149;3;0;372
+Centre-Val de Loire;18;150 à 199;1;0;192
+Centre-Val de Loire;18;200 à 399;8;0;1911
+Centre-Val de Loire;18;400 à 699;2;0;912
+Centre-Val de Loire;18;700 à 999;3;0;2480
+Centre-Val de Loire;18;⩾ 1000;1;0;2000
+Centre-Val de Loire;28;0 à 9;42;200;945
+Centre-Val de Loire;28;10 à 49;26;26;1023
+Centre-Val de Loire;28;50 à 99;8;0;533
+Centre-Val de Loire;28;100 à 149;2;0;270
+Centre-Val de Loire;28;150 à 199;1;0;192
+Centre-Val de Loire;28;200 à 399;3;0;907
+Centre-Val de Loire;28;400 à 699;0;0;0
+Centre-Val de Loire;28;700 à 999;1;0;800
+Centre-Val de Loire;28;⩾ 1000;0;0;0
+Centre-Val de Loire;36;0 à 9;26;183;906
+Centre-Val de Loire;36;10 à 49;38;43;1523
+Centre-Val de Loire;36;50 à 99;6;0;464
+Centre-Val de Loire;36;100 à 149;3;0;334
+Centre-Val de Loire;36;150 à 199;2;0;300
+Centre-Val de Loire;36;200 à 399;13;0;3519
+Centre-Val de Loire;36;400 à 699;11;0;5528
+Centre-Val de Loire;36;700 à 999;1;0;700
+Centre-Val de Loire;36;⩾ 1000;2;0;3043
+Centre-Val de Loire;37;0 à 9;63;383;1933
+Centre-Val de Loire;37;10 à 49;83;63;2962
+Centre-Val de Loire;37;50 à 99;10;0;641
+Centre-Val de Loire;37;100 à 149;5;0;643
+Centre-Val de Loire;37;150 à 199;3;0;549
+Centre-Val de Loire;37;200 à 399;7;0;1785
+Centre-Val de Loire;37;400 à 699;0;0;0
+Centre-Val de Loire;37;700 à 999;1;0;710
+Centre-Val de Loire;37;⩾ 1000;1;0;1048
+Centre-Val de Loire;41;0 à 9;41;266;1276
+Centre-Val de Loire;41;10 à 49;50;66;2140
+Centre-Val de Loire;41;50 à 99;7;0;495
+Centre-Val de Loire;41;100 à 149;1;0;100
+Centre-Val de Loire;41;150 à 199;4;0;673
+Centre-Val de Loire;41;200 à 399;5;0;1149
+Centre-Val de Loire;41;400 à 699;4;0;2078
+Centre-Val de Loire;41;700 à 999;1;0;700
+Centre-Val de Loire;41;⩾ 1000;0;0;0
+Centre-Val de Loire;45;0 à 9;66;428;2123
+Centre-Val de Loire;45;10 à 49;86;87;3326
+Centre-Val de Loire;45;50 à 99;17;2;1256
+Centre-Val de Loire;45;100 à 149;6;0;694
+Centre-Val de Loire;45;150 à 199;12;0;2057
+Centre-Val de Loire;45;200 à 399;5;0;1241
+Centre-Val de Loire;45;400 à 699;3;0;1525
+Centre-Val de Loire;45;700 à 999;0;0;0
+Centre-Val de Loire;45;⩾ 1000;3;0;4427
+Corse;2A;0 à 9;10;51;269
+Corse;2A;10 à 49;22;37;1300
+Corse;2A;50 à 99;10;3;833
+Corse;2A;100 à 149;14;0;1695
+Corse;2A;150 à 199;4;0;660
+Corse;2A;200 à 399;8;0;1866
+Corse;2A;400 à 699;1;0;450
+Corse;2A;700 à 999;0;0;0
+Corse;2A;⩾ 1000;0;0;0
+Corse;2B;0 à 9;14;52;275
+Corse;2B;10 à 49;50;39;1925
+Corse;2B;50 à 99;23;3;1841
+Corse;2B;100 à 149;20;1;2523
+Corse;2B;150 à 199;3;0;460
+Corse;2B;200 à 399;12;0;3223
+Corse;2B;400 à 699;4;0;1995
+Corse;2B;700 à 999;0;0;0
+Corse;2B;⩾ 1000;0;0;0
+Grand Est;08;0 à 9;68;136;1009
+Grand Est;08;10 à 49;80;39;2135
+Grand Est;08;50 à 99;8;0;534
+Grand Est;08;100 à 149;3;0;355
+Grand Est;08;150 à 199;2;0;333
+Grand Est;08;200 à 399;5;0;1309
+Grand Est;08;400 à 699;4;0;1811
+Grand Est;08;700 à 999;0;0;0
+Grand Est;08;⩾ 1000;1;0;1100
+Grand Est;10;0 à 9;37;112;684
+Grand Est;10;10 à 49;79;32;2184
+Grand Est;10;50 à 99;21;0;1529
+Grand Est;10;100 à 149;9;1;1132
+Grand Est;10;150 à 199;3;0;562
+Grand Est;10;200 à 399;2;0;556
+Grand Est;10;400 à 699;2;0;860
+Grand Est;10;700 à 999;0;0;0
+Grand Est;10;⩾ 1000;0;0;0
+Grand Est;51;0 à 9;81;168;1081
+Grand Est;51;10 à 49;96;33;2837
+Grand Est;51;50 à 99;20;2;1569
+Grand Est;51;100 à 149;7;0;838
+Grand Est;51;150 à 199;6;0;1050
+Grand Est;51;200 à 399;16;0;4202
+Grand Est;51;400 à 699;8;0;3718
+Grand Est;51;700 à 999;1;0;720
+Grand Est;51;⩾ 1000;1;0;1465
+Grand Est;52;0 à 9;24;111;634
+Grand Est;52;10 à 49;44;25;1642
+Grand Est;52;50 à 99;9;1;657
+Grand Est;52;100 à 149;6;1;832
+Grand Est;52;150 à 199;6;0;1062
+Grand Est;52;200 à 399;10;0;2615
+Grand Est;52;400 à 699;8;0;3995
+Grand Est;52;700 à 999;2;0;1675
+Grand Est;52;⩾ 1000;2;0;3398
+Grand Est;54;0 à 9;200;337;2454
+Grand Est;54;10 à 49;144;54;3487
+Grand Est;54;50 à 99;6;1;499
+Grand Est;54;100 à 149;0;0;0
+Grand Est;54;150 à 199;2;0;372
+Grand Est;54;200 à 399;1;0;200
+Grand Est;54;400 à 699;1;0;420
+Grand Est;54;700 à 999;0;0;0
+Grand Est;54;⩾ 1000;0;0;0
+Grand Est;55;0 à 9;53;196;1171
+Grand Est;55;10 à 49;77;31;2055
+Grand Est;55;50 à 99;6;0;376
+Grand Est;55;100 à 149;0;0;0
+Grand Est;55;150 à 199;3;0;530
+Grand Est;55;200 à 399;2;0;520
+Grand Est;55;400 à 699;1;0;473
+Grand Est;55;700 à 999;0;0;0
+Grand Est;55;⩾ 1000;1;0;1125
+Grand Est;57;0 à 9;291;392;3052
+Grand Est;57;10 à 49;181;26;3778
+Grand Est;57;50 à 99;15;1;1117
+Grand Est;57;100 à 149;1;0;143
+Grand Est;57;150 à 199;5;0;859
+Grand Est;57;200 à 399;6;0;1585
+Grand Est;57;400 à 699;9;0;4468
+Grand Est;57;700 à 999;1;0;800
+Grand Est;57;⩾ 1000;1;0;1000
+Grand Est;67;0 à 9;236;549;3605
+Grand Est;67;10 à 49;242;70;5973
+Grand Est;67;50 à 99;20;3;1699
+Grand Est;67;100 à 149;5;0;633
+Grand Est;67;150 à 199;5;0;839
+Grand Est;67;200 à 399;7;0;1901
+Grand Est;67;400 à 699;7;0;3344
+Grand Est;67;700 à 999;4;0;3263
+Grand Est;67;⩾ 1000;1;0;1800
+Grand Est;68;0 à 9;263;613;3969
+Grand Est;68;10 à 49;182;55;4475
+Grand Est;68;50 à 99;10;1;784
+Grand Est;68;100 à 149;5;0;625
+Grand Est;68;150 à 199;7;0;1220
+Grand Est;68;200 à 399;7;0;2127
+Grand Est;68;400 à 699;5;0;2190
+Grand Est;68;700 à 999;2;0;1650
+Grand Est;68;⩾ 1000;0;0;0
+Grand Est;88;0 à 9;147;542;3299
+Grand Est;88;10 à 49;174;87;4772
+Grand Est;88;50 à 99;15;1;1088
+Grand Est;88;100 à 149;7;0;799
+Grand Est;88;150 à 199;3;0;527
+Grand Est;88;200 à 399;13;0;3389
+Grand Est;88;400 à 699;5;0;2561
+Grand Est;88;700 à 999;2;0;1510
+Grand Est;88;⩾ 1000;1;0;1200
+Guadeloupe;971;0 à 9;1;15;59
+Guadeloupe;971;10 à 49;12;18;651
+Guadeloupe;971;50 à 99;12;5;1142
+Guadeloupe;971;100 à 149;6;0;652
+Guadeloupe;971;150 à 199;2;0;310
+Guadeloupe;971;200 à 399;4;0;1100
+Guadeloupe;971;400 à 699;0;0;0
+Guadeloupe;971;700 à 999;0;0;0
+Guadeloupe;971;⩾ 1000;0;0;0
+Guyane;973;0 à 9;1;12;57
+Guyane;973;10 à 49;4;6;215
+Guyane;973;50 à 99;1;1;137
+Guyane;973;100 à 149;0;0;0
+Guyane;973;150 à 199;0;0;0
+Guyane;973;200 à 399;0;0;0
+Guyane;973;400 à 699;0;0;0
+Guyane;973;700 à 999;0;0;0
+Guyane;973;⩾ 1000;0;0;0
+Hauts-de-France;02;0 à 9;91;153;1093
+Hauts-de-France;02;10 à 49;58;24;1546
+Hauts-de-France;02;50 à 99;5;0;393
+Hauts-de-France;02;100 à 149;1;0;130
+Hauts-de-France;02;150 à 199;4;0;764
+Hauts-de-France;02;200 à 399;4;0;1222
+Hauts-de-France;02;400 à 699;2;0;919
+Hauts-de-France;02;700 à 999;0;0;0
+Hauts-de-France;02;⩾ 1000;0;0;0
+Hauts-de-France;59;0 à 9;140;547;2550
+Hauts-de-France;59;10 à 49;85;53;2317
+Hauts-de-France;59;50 à 99;9;0;524
+Hauts-de-France;59;100 à 149;4;0;523
+Hauts-de-France;59;150 à 199;3;0;506
+Hauts-de-France;59;200 à 399;5;0;1375
+Hauts-de-France;59;400 à 699;3;0;1468
+Hauts-de-France;59;700 à 999;0;0;0
+Hauts-de-France;59;⩾ 1000;0;0;0
+Hauts-de-France;60;0 à 9;96;258;1435
+Hauts-de-France;60;10 à 49;55;21;1457
+Hauts-de-France;60;50 à 99;9;1;753
+Hauts-de-France;60;100 à 149;4;0;451
+Hauts-de-France;60;150 à 199;0;0;0
+Hauts-de-France;60;200 à 399;9;0;2376
+Hauts-de-France;60;400 à 699;3;0;1310
+Hauts-de-France;60;700 à 999;2;0;1666
+Hauts-de-France;60;⩾ 1000;0;0;0
+Hauts-de-France;62;0 à 9;87;410;2050
+Hauts-de-France;62;10 à 49;84;40;2037
+Hauts-de-France;62;50 à 99;5;1;422
+Hauts-de-France;62;100 à 149;2;0;257
+Hauts-de-France;62;150 à 199;3;0;502
+Hauts-de-France;62;200 à 399;8;0;2103
+Hauts-de-France;62;400 à 699;0;0;0
+Hauts-de-France;62;700 à 999;0;0;0
+Hauts-de-France;62;⩾ 1000;0;0;0
+Hauts-de-France;80;0 à 9;91;150;1023
+Hauts-de-France;80;10 à 49;57;20;1385
+Hauts-de-France;80;50 à 99;4;1;352
+Hauts-de-France;80;100 à 149;1;0;142
+Hauts-de-France;80;150 à 199;1;0;178
+Hauts-de-France;80;200 à 399;4;0;1087
+Hauts-de-France;80;400 à 699;1;0;441
+Hauts-de-France;80;700 à 999;0;0;0
+Hauts-de-France;80;⩾ 1000;0;0;0
+Ile-de-France;75;0 à 9;64;173;840
+Ile-de-France;75;10 à 49;25;20;743
+Ile-de-France;75;50 à 99;4;0;260
+Ile-de-France;75;100 à 149;1;0;100
+Ile-de-France;75;150 à 199;1;1;312
+Ile-de-France;75;200 à 399;2;0;500
+Ile-de-France;75;400 à 699;0;0;0
+Ile-de-France;75;700 à 999;0;0;0
+Ile-de-France;75;⩾ 1000;0;0;0
+Ile-de-France;77;0 à 9;87;364;1829
+Ile-de-France;77;10 à 49;103;55;3191
+Ile-de-France;77;50 à 99;11;1;777
+Ile-de-France;77;100 à 149;5;0;601
+Ile-de-France;77;150 à 199;2;0;313
+Ile-de-France;77;200 à 399;5;0;1331
+Ile-de-France;77;400 à 699;1;0;625
+Ile-de-France;77;700 à 999;3;0;2560
+Ile-de-France;77;⩾ 1000;0;0;0
+Ile-de-France;78;0 à 9;88;311;1443
+Ile-de-France;78;10 à 49;68;19;1707
+Ile-de-France;78;50 à 99;8;0;565
+Ile-de-France;78;100 à 149;2;0;263
+Ile-de-France;78;150 à 199;3;0;492
+Ile-de-France;78;200 à 399;1;0;214
+Ile-de-France;78;400 à 699;4;0;2032
+Ile-de-France;78;700 à 999;0;0;0
+Ile-de-France;78;⩾ 1000;0;0;0
+Ile-de-France;91;0 à 9;94;309;1512
+Ile-de-France;91;10 à 49;61;31;1681
+Ile-de-France;91;50 à 99;5;0;322
+Ile-de-France;91;100 à 149;1;0;147
+Ile-de-France;91;150 à 199;1;0;160
+Ile-de-France;91;200 à 399;3;0;935
+Ile-de-France;91;400 à 699;1;0;430
+Ile-de-France;91;700 à 999;0;0;0
+Ile-de-France;91;⩾ 1000;0;0;0
+Ile-de-France;92;0 à 9;54;182;730
+Ile-de-France;92;10 à 49;24;10;566
+Ile-de-France;92;50 à 99;1;0;80
+Ile-de-France;92;100 à 149;1;0;133
+Ile-de-France;92;150 à 199;0;0;0
+Ile-de-France;92;200 à 399;0;0;0
+Ile-de-France;92;400 à 699;0;0;0
+Ile-de-France;92;700 à 999;0;0;0
+Ile-de-France;92;⩾ 1000;0;0;0
+Ile-de-France;93;0 à 9;28;90;441
+Ile-de-France;93;10 à 49;26;12;768
+Ile-de-France;93;50 à 99;0;0;0
+Ile-de-France;93;100 à 149;0;1;140
+Ile-de-France;93;150 à 199;0;0;0
+Ile-de-France;93;200 à 399;0;0;0
+Ile-de-France;93;400 à 699;0;0;0
+Ile-de-France;93;700 à 999;0;0;0
+Ile-de-France;93;⩾ 1000;0;0;0
+Ile-de-France;94;0 à 9;65;138;749
+Ile-de-France;94;10 à 49;32;12;850
+Ile-de-France;94;50 à 99;1;0;50
+Ile-de-France;94;100 à 149;2;0;242
+Ile-de-France;94;150 à 199;0;0;0
+Ile-de-France;94;200 à 399;2;0;430
+Ile-de-France;94;400 à 699;0;0;0
+Ile-de-France;94;700 à 999;0;0;0
+Ile-de-France;94;⩾ 1000;0;0;0
+Ile-de-France;95;0 à 9;61;181;869
+Ile-de-France;95;10 à 49;36;18;921
+Ile-de-France;95;50 à 99;1;0;55
+Ile-de-France;95;100 à 149;0;0;0
+Ile-de-France;95;150 à 199;0;0;0
+Ile-de-France;95;200 à 399;1;0;200
+Ile-de-France;95;400 à 699;0;0;0
+Ile-de-France;95;700 à 999;0;0;0
+Ile-de-France;95;⩾ 1000;0;0;0
+La Réunion;974;0 à 9;74;231;1061
+La Réunion;974;10 à 49;54;76;2775
+La Réunion;974;50 à 99;41;9;3504
+La Réunion;974;100 à 149;25;0;2895
+La Réunion;974;150 à 199;7;0;1090
+La Réunion;974;200 à 399;8;0;1863
+La Réunion;974;400 à 699;6;0;2920
+La Réunion;974;700 à 999;0;0;0
+La Réunion;974;⩾ 1000;0;0;0
+Martinique;972;0 à 9;0;4;19
+Martinique;972;10 à 49;4;4;167
+Martinique;972;50 à 99;13;2;1067
+Martinique;972;100 à 149;8;0;935
+Martinique;972;150 à 199;6;0;955
+Martinique;972;200 à 399;5;0;1379
+Martinique;972;400 à 699;2;0;1096
+Martinique;972;700 à 999;1;0;720
+Martinique;972;⩾ 1000;0;0;0
+Mayotte;976;0 à 9;2;2;22
+Mayotte;976;10 à 49;0;0;0
+Mayotte;976;50 à 99;0;0;0
+Mayotte;976;100 à 149;0;0;0
+Mayotte;976;150 à 199;0;0;0
+Mayotte;976;200 à 399;0;0;0
+Mayotte;976;400 à 699;0;0;0
+Mayotte;976;700 à 999;0;0;0
+Mayotte;976;⩾ 1000;0;0;0
+Normandie;14;0 à 9;58;326;1445
+Normandie;14;10 à 49;60;40;1590
+Normandie;14;50 à 99;7;1;505
+Normandie;14;100 à 149;3;0;375
+Normandie;14;150 à 199;1;0;175
+Normandie;14;200 à 399;4;0;906
+Normandie;14;400 à 699;2;0;950
+Normandie;14;700 à 999;1;0;738
+Normandie;14;⩾ 1000;0;0;0
+Normandie;27;0 à 9;50;250;1232
+Normandie;27;10 à 49;60;33;1656
+Normandie;27;50 à 99;5;0;382
+Normandie;27;100 à 149;3;0;366
+Normandie;27;150 à 199;1;0;158
+Normandie;27;200 à 399;2;0;400
+Normandie;27;400 à 699;1;0;460
+Normandie;27;700 à 999;0;0;0
+Normandie;27;⩾ 1000;1;0;1080
+Normandie;50;0 à 9;75;285;1488
+Normandie;50;10 à 49;75;57;2424
+Normandie;50;50 à 99;5;1;449
+Normandie;50;100 à 149;1;0;130
+Normandie;50;150 à 199;0;0;0
+Normandie;50;200 à 399;1;0;300
+Normandie;50;400 à 699;1;0;550
+Normandie;50;700 à 999;0;0;0
+Normandie;50;⩾ 1000;0;0;0
+Normandie;61;0 à 9;64;243;1281
+Normandie;61;10 à 49;73;26;2055
+Normandie;61;50 à 99;8;1;628
+Normandie;61;100 à 149;5;0;623
+Normandie;61;150 à 199;4;0;724
+Normandie;61;200 à 399;4;0;1183
+Normandie;61;400 à 699;1;0;550
+Normandie;61;700 à 999;0;0;0
+Normandie;61;⩾ 1000;0;0;0
+Normandie;76;0 à 9;102;380;1744
+Normandie;76;10 à 49;77;41;2142
+Normandie;76;50 à 99;5;0;299
+Normandie;76;100 à 149;0;0;0
+Normandie;76;150 à 199;2;0;351
+Normandie;76;200 à 399;4;0;947
+Normandie;76;400 à 699;0;0;0
+Normandie;76;700 à 999;0;0;0
+Normandie;76;⩾ 1000;1;0;1278
+Nouvelle-Aquitaine;16;0 à 9;32;170;860
+Nouvelle-Aquitaine;16;10 à 49;59;48;2065
+Nouvelle-Aquitaine;16;50 à 99;18;0;1176
+Nouvelle-Aquitaine;16;100 à 149;8;0;883
+Nouvelle-Aquitaine;16;150 à 199;4;1;829
+Nouvelle-Aquitaine;16;200 à 399;9;0;2472
+Nouvelle-Aquitaine;16;400 à 699;2;0;1032
+Nouvelle-Aquitaine;16;700 à 999;2;0;1490
+Nouvelle-Aquitaine;16;⩾ 1000;1;0;1200
+Nouvelle-Aquitaine;17;0 à 9;53;220;1189
+Nouvelle-Aquitaine;17;10 à 49;89;42;2866
+Nouvelle-Aquitaine;17;50 à 99;26;1;1792
+Nouvelle-Aquitaine;17;100 à 149;9;1;1132
+Nouvelle-Aquitaine;17;150 à 199;17;0;2966
+Nouvelle-Aquitaine;17;200 à 399;17;0;4717
+Nouvelle-Aquitaine;17;400 à 699;7;0;3429
+Nouvelle-Aquitaine;17;700 à 999;1;0;750
+Nouvelle-Aquitaine;17;⩾ 1000;2;0;2966
+Nouvelle-Aquitaine;19;0 à 9;55;344;1726
+Nouvelle-Aquitaine;19;10 à 49;58;78;2402
+Nouvelle-Aquitaine;19;50 à 99;6;2;509
+Nouvelle-Aquitaine;19;100 à 149;3;0;357
+Nouvelle-Aquitaine;19;150 à 199;4;0;628
+Nouvelle-Aquitaine;19;200 à 399;6;0;1897
+Nouvelle-Aquitaine;19;400 à 699;7;0;3526
+Nouvelle-Aquitaine;19;700 à 999;1;0;760
+Nouvelle-Aquitaine;19;⩾ 1000;2;0;2182
+Nouvelle-Aquitaine;23;0 à 9;23;168;845
+Nouvelle-Aquitaine;23;10 à 49;53;31;1642
+Nouvelle-Aquitaine;23;50 à 99;4;0;280
+Nouvelle-Aquitaine;23;100 à 149;4;0;475
+Nouvelle-Aquitaine;23;150 à 199;4;0;725
+Nouvelle-Aquitaine;23;200 à 399;5;0;1340
+Nouvelle-Aquitaine;23;400 à 699;4;0;1953
+Nouvelle-Aquitaine;23;700 à 999;0;0;0
+Nouvelle-Aquitaine;23;⩾ 1000;0;0;0
+Nouvelle-Aquitaine;24;0 à 9;92;408;2147
+Nouvelle-Aquitaine;24;10 à 49;127;79;3586
+Nouvelle-Aquitaine;24;50 à 99;13;1;981
+Nouvelle-Aquitaine;24;100 à 149;13;0;1599
+Nouvelle-Aquitaine;24;150 à 199;13;0;2265
+Nouvelle-Aquitaine;24;200 à 399;12;0;3110
+Nouvelle-Aquitaine;24;400 à 699;1;0;550
+Nouvelle-Aquitaine;24;700 à 999;0;0;0
+Nouvelle-Aquitaine;24;⩾ 1000;0;0;0
+Nouvelle-Aquitaine;33;0 à 9;81;387;1900
+Nouvelle-Aquitaine;33;10 à 49;101;56;3260
+Nouvelle-Aquitaine;33;50 à 99;26;1;1914
+Nouvelle-Aquitaine;33;100 à 149;5;0;665
+Nouvelle-Aquitaine;33;150 à 199;2;0;358
+Nouvelle-Aquitaine;33;200 à 399;18;0;4563
+Nouvelle-Aquitaine;33;400 à 699;5;0;2600
+Nouvelle-Aquitaine;33;700 à 999;2;0;1759
+Nouvelle-Aquitaine;33;⩾ 1000;2;0;2176
+Nouvelle-Aquitaine;40;0 à 9;30;190;984
+Nouvelle-Aquitaine;40;10 à 49;102;55;3257
+Nouvelle-Aquitaine;40;50 à 99;13;0;821
+Nouvelle-Aquitaine;40;100 à 149;11;0;1266
+Nouvelle-Aquitaine;40;150 à 199;6;0;997
+Nouvelle-Aquitaine;40;200 à 399;15;0;4099
+Nouvelle-Aquitaine;40;400 à 699;4;0;1902
+Nouvelle-Aquitaine;40;700 à 999;2;0;1612
+Nouvelle-Aquitaine;40;⩾ 1000;1;0;1500
+Nouvelle-Aquitaine;47;0 à 9;41;155;845
+Nouvelle-Aquitaine;47;10 à 49;74;46;2642
+Nouvelle-Aquitaine;47;50 à 99;20;1;1530
+Nouvelle-Aquitaine;47;100 à 149;8;0;979
+Nouvelle-Aquitaine;47;150 à 199;13;0;2115
+Nouvelle-Aquitaine;47;200 à 399;10;0;2718
+Nouvelle-Aquitaine;47;400 à 699;7;0;3345
+Nouvelle-Aquitaine;47;700 à 999;2;0;1532
+Nouvelle-Aquitaine;47;⩾ 1000;0;0;0
+Nouvelle-Aquitaine;64;0 à 9;22;260;1235
+Nouvelle-Aquitaine;64;10 à 49;76;84;3162
+Nouvelle-Aquitaine;64;50 à 99;25;1;1849
+Nouvelle-Aquitaine;64;100 à 149;9;0;1069
+Nouvelle-Aquitaine;64;150 à 199;9;1;1712
+Nouvelle-Aquitaine;64;200 à 399;26;0;6281
+Nouvelle-Aquitaine;64;400 à 699;6;0;3256
+Nouvelle-Aquitaine;64;700 à 999;1;0;846
+Nouvelle-Aquitaine;64;⩾ 1000;0;0;0
+Nouvelle-Aquitaine;79;0 à 9;49;302;1405
+Nouvelle-Aquitaine;79;10 à 49;69;37;2059
+Nouvelle-Aquitaine;79;50 à 99;11;0;745
+Nouvelle-Aquitaine;79;100 à 149;5;0;615
+Nouvelle-Aquitaine;79;150 à 199;4;0;681
+Nouvelle-Aquitaine;79;200 à 399;10;0;2811
+Nouvelle-Aquitaine;79;400 à 699;10;0;4602
+Nouvelle-Aquitaine;79;700 à 999;0;0;0
+Nouvelle-Aquitaine;79;⩾ 1000;0;0;0
+Nouvelle-Aquitaine;86;0 à 9;50;226;1299
+Nouvelle-Aquitaine;86;10 à 49;61;48;2144
+Nouvelle-Aquitaine;86;50 à 99;14;1;1075
+Nouvelle-Aquitaine;86;100 à 149;6;1;780
+Nouvelle-Aquitaine;86;150 à 199;7;0;1185
+Nouvelle-Aquitaine;86;200 à 399;19;0;4993
+Nouvelle-Aquitaine;86;400 à 699;4;1;2521
+Nouvelle-Aquitaine;86;700 à 999;1;0;866
+Nouvelle-Aquitaine;86;⩾ 1000;1;0;1200
+Nouvelle-Aquitaine;87;0 à 9;82;287;1664
+Nouvelle-Aquitaine;87;10 à 49;91;54;2758
+Nouvelle-Aquitaine;87;50 à 99;9;0;690
+Nouvelle-Aquitaine;87;100 à 149;2;0;239
+Nouvelle-Aquitaine;87;150 à 199;4;0;670
+Nouvelle-Aquitaine;87;200 à 399;11;0;2916
+Nouvelle-Aquitaine;87;400 à 699;6;0;3267
+Nouvelle-Aquitaine;87;700 à 999;0;0;0
+Nouvelle-Aquitaine;87;⩾ 1000;1;0;1480
+Occitanie;09;0 à 9;21;111;593
+Occitanie;09;10 à 49;55;48;2067
+Occitanie;09;50 à 99;27;0;1918
+Occitanie;09;100 à 149;5;0;592
+Occitanie;09;150 à 199;6;0;1043
+Occitanie;09;200 à 399;21;0;5503
+Occitanie;09;400 à 699;3;0;1200
+Occitanie;09;700 à 999;0;0;0
+Occitanie;09;⩾ 1000;1;0;1268
+Occitanie;11;0 à 9;17;155;795
+Occitanie;11;10 à 49;52;75;2430
+Occitanie;11;50 à 99;14;2;1101
+Occitanie;11;100 à 149;6;1;843
+Occitanie;11;150 à 199;4;0;659
+Occitanie;11;200 à 399;15;0;3789
+Occitanie;11;400 à 699;2;0;1022
+Occitanie;11;700 à 999;2;0;1866
+Occitanie;11;⩾ 1000;2;0;2306
+Occitanie;12;0 à 9;20;322;1442
+Occitanie;12;10 à 49;74;110;3510
+Occitanie;12;50 à 99;16;1;1215
+Occitanie;12;100 à 149;8;0;871
+Occitanie;12;150 à 199;4;0;751
+Occitanie;12;200 à 399;16;0;4133
+Occitanie;12;400 à 699;5;0;2400
+Occitanie;12;700 à 999;3;0;2396
+Occitanie;12;⩾ 1000;4;0;8836
+Occitanie;30;0 à 9;25;307;1518
+Occitanie;30;10 à 49;67;146;4195
+Occitanie;30;50 à 99;28;8;2539
+Occitanie;30;100 à 149;9;1;1143
+Occitanie;30;150 à 199;13;1;2402
+Occitanie;30;200 à 399;25;0;6595
+Occitanie;30;400 à 699;12;0;6479
+Occitanie;30;700 à 999;3;0;2500
+Occitanie;30;⩾ 1000;0;0;0
+Occitanie;31;0 à 9;129;453;2376
+Occitanie;31;10 à 49;138;93;4425
+Occitanie;31;50 à 99;22;2;1515
+Occitanie;31;100 à 149;9;0;1069
+Occitanie;31;150 à 199;5;0;896
+Occitanie;31;200 à 399;24;0;6517
+Occitanie;31;400 à 699;2;0;1088
+Occitanie;31;700 à 999;2;0;1573
+Occitanie;31;⩾ 1000;6;1;8452
+Occitanie;32;0 à 9;22;113;580
+Occitanie;32;10 à 49;44;30;1472
+Occitanie;32;50 à 99;18;0;1251
+Occitanie;32;100 à 149;7;0;777
+Occitanie;32;150 à 199;9;0;1608
+Occitanie;32;200 à 399;11;0;2801
+Occitanie;32;400 à 699;14;0;7590
+Occitanie;32;700 à 999;8;0;6260
+Occitanie;32;⩾ 1000;5;0;5840
+Occitanie;34;0 à 9;45;299;1386
+Occitanie;34;10 à 49;61;92;2946
+Occitanie;34;50 à 99;23;4;1792
+Occitanie;34;100 à 149;12;0;1414
+Occitanie;34;150 à 199;7;0;1203
+Occitanie;34;200 à 399;20;0;5357
+Occitanie;34;400 à 699;10;0;5322
+Occitanie;34;700 à 999;6;0;4974
+Occitanie;34;⩾ 1000;0;0;0
+Occitanie;46;0 à 9;110;314;1633
+Occitanie;46;10 à 49;91;46;2489
+Occitanie;46;50 à 99;10;1;802
+Occitanie;46;100 à 149;4;1;556
+Occitanie;46;150 à 199;4;0;664
+Occitanie;46;200 à 399;5;0;1242
+Occitanie;46;400 à 699;2;0;822
+Occitanie;46;700 à 999;0;0;0
+Occitanie;46;⩾ 1000;0;0;0
+Occitanie;48;0 à 9;11;127;582
+Occitanie;48;10 à 49;45;43;1830
+Occitanie;48;50 à 99;31;3;2511
+Occitanie;48;100 à 149;12;0;1406
+Occitanie;48;150 à 199;20;0;3432
+Occitanie;48;200 à 399;26;0;6950
+Occitanie;48;400 à 699;4;0;1788
+Occitanie;48;700 à 999;0;0;0
+Occitanie;48;⩾ 1000;0;0;0
+Occitanie;65;0 à 9;24;106;578
+Occitanie;65;10 à 49;42;24;1423
+Occitanie;65;50 à 99;14;1;1082
+Occitanie;65;100 à 149;8;0;1021
+Occitanie;65;150 à 199;4;0;769
+Occitanie;65;200 à 399;21;0;5119
+Occitanie;65;400 à 699;9;0;4387
+Occitanie;65;700 à 999;2;0;1500
+Occitanie;65;⩾ 1000;0;0;0
+Occitanie;66;0 à 9;15;109;558
+Occitanie;66;10 à 49;37;33;1366
+Occitanie;66;50 à 99;21;4;1802
+Occitanie;66;100 à 149;8;1;1008
+Occitanie;66;150 à 199;7;0;1215
+Occitanie;66;200 à 399;15;0;3825
+Occitanie;66;400 à 699;6;0;3060
+Occitanie;66;700 à 999;0;0;0
+Occitanie;66;⩾ 1000;0;0;0
+Occitanie;81;0 à 9;83;330;1878
+Occitanie;81;10 à 49;123;96;4302
+Occitanie;81;50 à 99;20;1;1352
+Occitanie;81;100 à 149;10;0;1248
+Occitanie;81;150 à 199;6;0;1062
+Occitanie;81;200 à 399;9;0;2208
+Occitanie;81;400 à 699;8;0;4025
+Occitanie;81;700 à 999;9;0;7499
+Occitanie;81;⩾ 1000;4;0;5052
+Occitanie;82;0 à 9;32;151;809
+Occitanie;82;10 à 49;69;30;2014
+Occitanie;82;50 à 99;9;0;645
+Occitanie;82;100 à 149;5;0;570
+Occitanie;82;150 à 199;4;0;744
+Occitanie;82;200 à 399;8;1;2298
+Occitanie;82;400 à 699;2;0;1040
+Occitanie;82;700 à 999;0;0;0
+Occitanie;82;⩾ 1000;2;0;2383
+Pays de la Loire;44;0 à 9;82;478;2240
+Pays de la Loire;44;10 à 49;69;69;2553
+Pays de la Loire;44;50 à 99;10;1;776
+Pays de la Loire;44;100 à 149;2;1;361
+Pays de la Loire;44;150 à 199;3;1;645
+Pays de la Loire;44;200 à 399;10;0;2710
+Pays de la Loire;44;400 à 699;5;0;2446
+Pays de la Loire;44;700 à 999;0;0;0
+Pays de la Loire;44;⩾ 1000;0;0;0
+Pays de la Loire;49;0 à 9;34;337;1372
+Pays de la Loire;49;10 à 49;48;48;1851
+Pays de la Loire;49;50 à 99;6;1;443
+Pays de la Loire;49;100 à 149;2;0;211
+Pays de la Loire;49;150 à 199;3;0;524
+Pays de la Loire;49;200 à 399;6;0;1555
+Pays de la Loire;49;400 à 699;9;0;4751
+Pays de la Loire;49;700 à 999;5;0;3696
+Pays de la Loire;49;⩾ 1000;4;0;5210
+Pays de la Loire;53;0 à 9;34;242;993
+Pays de la Loire;53;10 à 49;41;29;1372
+Pays de la Loire;53;50 à 99;4;0;306
+Pays de la Loire;53;100 à 149;5;0;636
+Pays de la Loire;53;150 à 199;3;0;500
+Pays de la Loire;53;200 à 399;3;0;859
+Pays de la Loire;53;400 à 699;3;0;1600
+Pays de la Loire;53;700 à 999;0;0;0
+Pays de la Loire;53;⩾ 1000;0;0;0
+Pays de la Loire;72;0 à 9;78;291;1463
+Pays de la Loire;72;10 à 49;60;43;1691
+Pays de la Loire;72;50 à 99;5;0;317
+Pays de la Loire;72;100 à 149;2;0;256
+Pays de la Loire;72;150 à 199;1;0;189
+Pays de la Loire;72;200 à 399;4;0;996
+Pays de la Loire;72;400 à 699;2;0;1151
+Pays de la Loire;72;700 à 999;0;0;0
+Pays de la Loire;72;⩾ 1000;4;0;6551
+Pays de la Loire;85;0 à 9;41;322;1484
+Pays de la Loire;85;10 à 49;59;75;2593
+Pays de la Loire;85;50 à 99;14;2;1133
+Pays de la Loire;85;100 à 149;4;0;508
+Pays de la Loire;85;150 à 199;1;0;160
+Pays de la Loire;85;200 à 399;17;0;4356
+Pays de la Loire;85;400 à 699;4;0;2134
+Pays de la Loire;85;700 à 999;5;0;3972
+Pays de la Loire;85;⩾ 1000;2;0;2295
+Provence-Alpes-Côte d'Azur;04;0 à 9;16;214;1068
+Provence-Alpes-Côte d'Azur;04;10 à 49;66;88;3376
+Provence-Alpes-Côte d'Azur;04;50 à 99;31;9;2770
+Provence-Alpes-Côte d'Azur;04;100 à 149;12;2;1693
+Provence-Alpes-Côte d'Azur;04;150 à 199;19;0;3228
+Provence-Alpes-Côte d'Azur;04;200 à 399;49;0;13298
+Provence-Alpes-Côte d'Azur;04;400 à 699;17;0;8147
+Provence-Alpes-Côte d'Azur;04;700 à 999;3;0;2154
+Provence-Alpes-Côte d'Azur;04;⩾ 1000;1;0;1170
+Provence-Alpes-Côte d'Azur;05;0 à 9;23;234;1363
+Provence-Alpes-Côte d'Azur;05;10 à 49;70;83;3180
+Provence-Alpes-Côte d'Azur;05;50 à 99;21;0;1572
+Provence-Alpes-Côte d'Azur;05;100 à 149;19;0;2111
+Provence-Alpes-Côte d'Azur;05;150 à 199;13;0;2163
+Provence-Alpes-Côte d'Azur;05;200 à 399;29;0;7209
+Provence-Alpes-Côte d'Azur;05;400 à 699;5;0;2176
+Provence-Alpes-Côte d'Azur;05;700 à 999;0;0;0
+Provence-Alpes-Côte d'Azur;05;⩾ 1000;0;0;0
+Provence-Alpes-Côte d'Azur;06;0 à 9;61;309;1577
+Provence-Alpes-Côte d'Azur;06;10 à 49;108;84;3339
+Provence-Alpes-Côte d'Azur;06;50 à 99;16;4;1280
+Provence-Alpes-Côte d'Azur;06;100 à 149;11;0;1278
+Provence-Alpes-Côte d'Azur;06;150 à 199;4;0;705
+Provence-Alpes-Côte d'Azur;06;200 à 399;14;1;3431
+Provence-Alpes-Côte d'Azur;06;400 à 699;2;0;1010
+Provence-Alpes-Côte d'Azur;06;700 à 999;1;0;984
+Provence-Alpes-Côte d'Azur;06;⩾ 1000;0;0;0
+Provence-Alpes-Côte d'Azur;13;0 à 9;127;387;2161
+Provence-Alpes-Côte d'Azur;13;10 à 49;156;71;4469
+Provence-Alpes-Côte d'Azur;13;50 à 99;28;4;2110
+Provence-Alpes-Côte d'Azur;13;100 à 149;10;0;1152
+Provence-Alpes-Côte d'Azur;13;150 à 199;6;0;1022
+Provence-Alpes-Côte d'Azur;13;200 à 399;27;0;7188
+Provence-Alpes-Côte d'Azur;13;400 à 699;16;0;7635
+Provence-Alpes-Côte d'Azur;13;700 à 999;2;0;1400
+Provence-Alpes-Côte d'Azur;13;⩾ 1000;2;0;2700
+Provence-Alpes-Côte d'Azur;83;0 à 9;48;348;1666
+Provence-Alpes-Côte d'Azur;83;10 à 49;97;65;3344
+Provence-Alpes-Côte d'Azur;83;50 à 99;27;2;1929
+Provence-Alpes-Côte d'Azur;83;100 à 149;14;0;1536
+Provence-Alpes-Côte d'Azur;83;150 à 199;14;3;2924
+Provence-Alpes-Côte d'Azur;83;200 à 399;38;0;10086
+Provence-Alpes-Côte d'Azur;83;400 à 699;16;0;7889
+Provence-Alpes-Côte d'Azur;83;700 à 999;2;0;1517
+Provence-Alpes-Côte d'Azur;83;⩾ 1000;2;0;3703
+Provence-Alpes-Côte d'Azur;84;0 à 9;30;225;1127
+Provence-Alpes-Côte d'Azur;84;10 à 49;61;102;3345
+Provence-Alpes-Côte d'Azur;84;50 à 99;22;6;1975
+Provence-Alpes-Côte d'Azur;84;100 à 149;8;2;1139
+Provence-Alpes-Côte d'Azur;84;150 à 199;17;1;3006
+Provence-Alpes-Côte d'Azur;84;200 à 399;37;0;9638
+Provence-Alpes-Côte d'Azur;84;400 à 699;15;0;7062
+Provence-Alpes-Côte d'Azur;84;700 à 999;0;0;0
+Provence-Alpes-Côte d'Azur;84;⩾ 1000;0;0;0
+Etranger;99;0 à 9;4;25;119
+Etranger;99;10 à 49;5;8;232
+Etranger;99;50 à 99;1;0;58
+Etranger;99;100 à 149;0;0;0
+Etranger;99;150 à 199;0;0;0
+Etranger;99;200 à 399;0;0;0
+Etranger;99;400 à 699;0;1;400
+Etranger;99;700 à 999;0;0;0
+Etranger;99;⩾ 1000;0;0;0
